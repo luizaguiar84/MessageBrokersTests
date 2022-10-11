@@ -1,0 +1,17 @@
+/Users/luizaguiar/Projects/RabbitMQTest/src/PublishRabbitMQ/bin/Debug/net6.0/PublishRabbitMQ
+/Users/luizaguiar/Projects/RabbitMQTest/src/PublishRabbitMQ/bin/Debug/net6.0/PublishRabbitMQ.deps.json
+/Users/luizaguiar/Projects/RabbitMQTest/src/PublishRabbitMQ/bin/Debug/net6.0/PublishRabbitMQ.runtimeconfig.json
+/Users/luizaguiar/Projects/RabbitMQTest/src/PublishRabbitMQ/bin/Debug/net6.0/PublishRabbitMQ.dll
+/Users/luizaguiar/Projects/RabbitMQTest/src/PublishRabbitMQ/bin/Debug/net6.0/PublishRabbitMQ.pdb
+/Users/luizaguiar/Projects/RabbitMQTest/src/PublishRabbitMQ/bin/Debug/net6.0/RabbitMQ.Client.dll
+/Users/luizaguiar/Projects/RabbitMQTest/src/PublishRabbitMQ/obj/Debug/net6.0/PublishRabbitMQ.csproj.AssemblyReference.cache
+/Users/luizaguiar/Projects/RabbitMQTest/src/PublishRabbitMQ/obj/Debug/net6.0/PublishRabbitMQ.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luizaguiar/Projects/RabbitMQTest/src/PublishRabbitMQ/obj/Debug/net6.0/PublishRabbitMQ.AssemblyInfoInputs.cache
+/Users/luizaguiar/Projects/RabbitMQTest/src/PublishRabbitMQ/obj/Debug/net6.0/PublishRabbitMQ.AssemblyInfo.cs
+/Users/luizaguiar/Projects/RabbitMQTest/src/PublishRabbitMQ/obj/Debug/net6.0/PublishRabbitMQ.csproj.CoreCompileInputs.cache
+/Users/luizaguiar/Projects/RabbitMQTest/src/PublishRabbitMQ/obj/Debug/net6.0/PublishRabbitMQ.csproj.CopyComplete
+/Users/luizaguiar/Projects/RabbitMQTest/src/PublishRabbitMQ/obj/Debug/net6.0/PublishRabbitMQ.dll
+/Users/luizaguiar/Projects/RabbitMQTest/src/PublishRabbitMQ/obj/Debug/net6.0/refint/PublishRabbitMQ.dll
+/Users/luizaguiar/Projects/RabbitMQTest/src/PublishRabbitMQ/obj/Debug/net6.0/PublishRabbitMQ.pdb
+/Users/luizaguiar/Projects/RabbitMQTest/src/PublishRabbitMQ/obj/Debug/net6.0/PublishRabbitMQ.genruntimeconfig.cache
+/Users/luizaguiar/Projects/RabbitMQTest/src/PublishRabbitMQ/obj/Debug/net6.0/ref/PublishRabbitMQ.dll

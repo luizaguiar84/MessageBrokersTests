@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "S49JwtjhDtsi4G2MN7MKel4TgU3xmiU5rOPrJ0EVUZiJQ+ICkFtmGMegD+AkN9OuMa90Rr20Im/kqS5K9Cyg3g==",
+  "success": true,
+  "projectFilePath": "/Users/luizaguiar/Projects/RabbitMQTest/src/KafkaProducer/KafkaProducer.csproj",
+  "expectedPackageFiles": [
+    "/Users/luizaguiar/.nuget/packages/confluent.kafka/1.9.3/confluent.kafka.1.9.3.nupkg.sha512",
+    "/Users/luizaguiar/.nuget/packages/librdkafka.redist/1.9.2/librdkafka.redist.1.9.2.nupkg.sha512",
+    "/Users/luizaguiar/.nuget/packages/system.memory/4.5.0/system.memory.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
