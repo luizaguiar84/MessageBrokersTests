@@ -20,4 +20,5 @@ docker-compose up
 - efetuar o binding da exchange com a fila
 
 Para publicar na fila, rodar o ***PublishRabbitMQ***
+
 Para ler a fila, rodar ***ConsumerRabbit***
